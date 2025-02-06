@@ -7,7 +7,7 @@
 
 <body>
 
-	Sathyapriya Presentation</br>
+	JENKINS DEMO</br>
 	<a href="#" onclick="playRoshambo('rock')"> rock </a>
 	<a href="#" onclick="playRoshambo('paper')"> paper </a>
 	<a href="#" onclick="playRoshambo('scissors')"> scissors </a>
