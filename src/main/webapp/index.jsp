@@ -5,7 +5,8 @@
 
    <body>
 
-      Which one will it be for you today?<br/>
+      Hi, Hello<br/>
+	  <%-- //Which one will it be for you today? --%>
       <a href="#" onclick="playRoshambo('rock')"> rock </a>
       <a href="#" onclick="playRoshambo('paper')"> paper </a>
       <a href="#" onclick="playRoshambo('scissors')"> scissors </a>
